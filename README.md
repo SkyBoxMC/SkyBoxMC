@@ -1,1 +1,1 @@
-# SkyBoxMC
+<img src="SkyBoxMC.png">
